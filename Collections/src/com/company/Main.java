@@ -27,9 +27,7 @@ public class Main {
 		HashMap<String, Integer> map = new HashMap<>(10);
         map.put("q", 10);
         map.put("a", 1);
-        map.put("b", 2);   
-        map.put("j", 57);
-        map.put("v", 28);
+        map.put("b", 2);          
         
         map.clear();
        
