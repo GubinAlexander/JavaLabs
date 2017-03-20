@@ -29,6 +29,7 @@ public class Main {
         map.put("a", 1);
         map.put("b", 2);   
         map.put("j", 57);
+        map.put("v", 28);
         
         map.clear();
        
